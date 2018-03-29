@@ -1,8 +1,53 @@
 {
-  "left" :{
+  "basics" :{
     "photo":"profile.png",
     "name":"Indraja",
     "email":"vangalaindraja@gmail.com",
     "phone":"9492225433"
+  },
+  "education" :[
+    {
+      "course" :"Btech(Computer science and engineering)",
+      "college" :[
+        "Ravindra college of engineering for women",
+      "2015-2019",
+    "60%"
+  ]
+
+},
+{
+  "course" :"Inter(MPC)",
+  "college" :[
+    "Nalanda junior college",
+  "2013-2015",
+"60%"
+]
+},
+{
+  "course" :"SSC",
+  "college" :[
+    "Adarsha High school",
+  "2013",
+"60%"
+
+  ]
+
+}
+],
+
+"skills" :[
+  {
+    "name":"operating systems",
+    "value" :"windows,linux"
+  },
+  {
+    "name" :"programming languages",
+    "value" :"c,c++,java"
+  },
+  {
+    "name":"web development",
+    "value" :"Html,Python"
   }
+]
+
 }
